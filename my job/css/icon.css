@@ -1,0 +1,21 @@
+.icon{
+    width: 26px;
+    height: 26px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon-search{
+    background-image: url(../icon/search.svg);
+}
+
+.icon-code{
+    background-image: url(../icon/code.svg);
+}
+
+.icon-pray{
+    background-image: url(../icon/pray.svg);
+}
